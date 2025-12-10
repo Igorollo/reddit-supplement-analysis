@@ -1,2 +1,2 @@
 # reddit-supplement-analysis
-This is a project on the text analysis classes. I have downloaded the whole Reddit threads since 2005 on supplements and nootropic. Then conducted sentiment analysis on the comments mentioning specific supplements. The last step is visualization
+This is a project on the text analysis classes. I have downloaded the whole Reddit threads since 2005 on supplements and nootropic. The instructions on downloading the data are here: https://www.reddit.com/r/pushshift/comments/1itme1k/separate_dump_files_for_the_top_40k_subreddits/. Then conducted sentiment analysis on the comments mentioning specific supplements. The last step is visualization
