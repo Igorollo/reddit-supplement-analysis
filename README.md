@@ -71,7 +71,7 @@ The next stage performs:
 * Question/statement classification
 
 The output file produced is:
-**`supplement_analysis_with_benefits.json`**
+**`data_for_analysis_final.json`**
 
 **Example entry:**
 
